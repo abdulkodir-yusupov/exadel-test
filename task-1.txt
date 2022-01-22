@@ -1,0 +1,8 @@
+First of all, I would like to say thanks to you dear HR or person who spends time to check my work. Sincerely Abdulkodir Yusupov.
+
+1. I have created an account and repo on github https://github.com/abdulkodir-yusupov
+2. This situation could be considered as a problem which has simple solution which is PC has not connected to network. 
+   "Connected to WIFI" does not mean that host has any connection to network because router could not have any connections to internet as well.
+   Lets review the situation where PC nevertheless connected to the network. Firstly we have to try make ping to the server to identify that it is working (turned on).
+   If it works than we can try to connect. Check either ssh port open or not. Check permission of private key file if exists. Also we have to check IP, login and password for typo mistake.
+3. On another file.
